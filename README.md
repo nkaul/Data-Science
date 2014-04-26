@@ -1,4 +1,4 @@
-Data-Science
+Data-Science Specialization Course Repository
 ============
 
-Data Science Class Repository
+This will host Data Science Course Repos
